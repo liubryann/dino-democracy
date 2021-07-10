@@ -20,7 +20,7 @@ This toy project was made to explore and learn technologies for making decentral
 #### Displaying the Winner
 ![show winning dino](./README_assets/winner.png)
 ### Technology Used
-* [Truffle Suite]("https://www.trufflesuite.com/")
+* [Truffle Suite](https://www.trufflesuite.com/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
 * [web3.js](https://web3js.readthedocs.io/en/v1.3.4/)
 * [React](https://www.trufflesuite.com/boxes/react)
